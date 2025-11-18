@@ -1,0 +1,62 @@
+# Core dependencies
+numpy>=1.21.0
+torch>=1.9.0
+torchvision>=0.10.0
+
+# NeRF dependencies
+tinycudann>=1.6
+pytorch3d>=0.6.0
+opencv-python>=4.5.3
+pillow>=8.3.1
+
+# Point cloud processing
+open3d>=0.13.0
+scipy>=1.7.0
+
+# Unreal Engine plugin dependencies
+unreal-engine-python>=0.1.0
+
+# Utility packages
+tqdm>=4.62.0
+matplotlib>=3.4.3
+
+# 3D Processing and Visualization
+trimesh>=3.9.0
+pyntcloud>=0.1.4
+plotly>=5.3.0
+
+# Neural Networks and Deep Learning
+tensorboard>=2.8.0
+tensorboardX>=2.2.0
+scikit-learn>=0.24.0
+
+# Point Cloud Processing
+pointcleannet>=1.0.0
+pytorch-geometric>=2.0.0
+
+# Web Visualization
+flask>=2.0.0
+flask-cors>=3.0.0
+websockets>=10.0.0
+
+# Image Processing
+scikit-image>=0.18.0
+
+# Utilities
+pyyaml>=5.4.0
+requests>=2.26.0
+psutil>=5.8.0
+eigen3>=3.4.0
+
+# Game Engine Integration
+unity-python>=1.0.0  # Unity Python API
+unity-sdk>=2022.3.0  # Unity SDK
+unity-gaussian-splatting>=1.0.0  # Gaussian Splatting for Unity
+unity-vr-support>=1.0.0  # VR support for Unity
+
+# Optional Dependencies
+# Uncomment if needed
+# oculus-sdk>=1.0.0  # For VR development
+# steamvr>=1.0.0     # For VR development
+# unreal-engine>=5.0.0  # For Unreal Engine integration 
+### Postshot-BETA application form gaussian-splatting-app Directory

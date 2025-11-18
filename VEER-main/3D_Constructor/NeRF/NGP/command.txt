@@ -1,0 +1,4 @@
+python scripts\colmap2nerf.py --video_in Scene1.mp4 --video_fps 30 --run_colmap --overwrite
+
+
+total images = video_fps * duration of video in seconds

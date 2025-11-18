@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\Module.GSRuntime.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\GaussianActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\GaussianComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\GaussianCropVolumeComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\GSGlobal.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\GSRuntimeBuffer.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\GSRuntimeModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\GSRuntime\\XvGSPointCloudManager.cpp.obj"
+	]
+}
